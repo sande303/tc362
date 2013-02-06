@@ -1,0 +1,14 @@
+1)command: cd /usr/bin
+/user/bin# ls -l
+answer: 39704
+
+2)command: top then shift m tosort by memory usage
+answer: nova-agent
+
+3)command: date
+answer: UTC
+
+4)twelve
+
+5)0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
+It is the Fibonacci sequence
