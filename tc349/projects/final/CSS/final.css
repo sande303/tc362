@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+body {
+	width: 800px;
+	margin: 1.5em auto;
+	
+}
+
+
+#nav {
+	list-style:none;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:center;
+	color:#090;
+}
+
+#nav a {
+	color:#000;
+	padding-right:50px;
+	padding-left:50px;
+	border: 2px solid #030;
+}
+
+#nav a:hover {
+	color:#0C0;
+	text-decoration:none;
+}
+	
+#nav li{
+	
+	background-color:#060;
+	padding: 1px;
+	text-align:center; 
+	display: inline;
+}
